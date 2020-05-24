@@ -1,4 +1,4 @@
-<template>
+<template xmlns:v-on="http://www.w3.org/1999/xhtml">
     <div>
       <p>login .vue</p>
         用户名:<input type="text" v-model="loginForm.username" placeholder="请输入用户名"/>
